@@ -50,3 +50,16 @@ button.btn1{
     margin: 20px 970px;
     display: none;
 }
+
+div.secondQuestions{
+    display: none;
+}
+button.btn2 {
+    background-color: burlywood;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 20px 970px;
+    display: none;
+}

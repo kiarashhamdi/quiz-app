@@ -46,6 +46,21 @@ document.getElementById("question5").style.display ="block";
 document.getElementById("nextPage").style.display ="block";
 }
 
+function secondPage(){
+document.getElementById("question1").style.display ="none";
+document.getElementById("question2").style.display ="none";
+document.getElementById("question3").style.display ="none";
+document.getElementById("question4").style.display ="none";
+document.getElementById("question5").style.display ="none";
+document.getElementById("nextPage").style.display ="none";
+document.getElementById("question6").style.display ="block";
+document.getElementById("question7").style.display ="block";
+document.getElementById("question8").style.display ="block";
+document.getElementById("question9").style.display ="block";
+document.getElementById("question10").style.display ="block";
+document.getElementById("first").style.display ="block";
+}
+
 
 
 for (var a = [0, 1, 2, 3, 4 , 5 , 6 , 7 , 8 , 9], i = a.length; i--; ) {
