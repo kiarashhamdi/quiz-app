@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(235, 136, 49);
+}
+
+h1.quizAppLabel{
+    text-align: center;
+    color:darkred;
+    text-shadow: 4px 4px burlywood;
+    font-size:60px;;
+}
+div {
+    background-color: burlywood;
+    border-radius: 30px;
+    margin: 40px auto;
+    max-width: 700px;
+}
+input {
+    margin: 4px 20px;
+}
+
+.firstQuestions{
+    display: none;
+}
+
+div.wellcome {
+    padding :10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(235, 136, 49);
+    border: none;
+    padding: 15px 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+p.questionNumber{
+    margin: 4px 20px ;
+}
+
+button.btn1{
+    background-color: burlywood;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 20px 970px;
+    display: none;
+}
